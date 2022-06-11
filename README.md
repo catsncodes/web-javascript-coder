@@ -1,85 +1,37 @@
-# ☕ Java & SpringBoot - Cod3r Cursos
+# 🌐 WebDev & Javascript - Cod3r Cursos
 
-## Curso de Java e SpringBoot, pela Cod3r Cursos, do professor Leonardo Moura Leitão, pela plataforma UDEMY.
+## Curso de Desenvolvimento Web, com fundamentos de javascript, noções de front e backend, além de tópicos sobre react, nodeJS, Vue, nextJS, etc, pela Cod3r Cursos, do professor Leonardo Moura Leitão, da plataforma UDEMY.
 Curso em progresso, que será registrado no gitHub a partir de agora.
 
-# 🔋 Loading |24%|
-> # PROGRESSO: [113]/[460]
+# 🔋 Loading |7%|
+> # PROGRESSO: [50]/[675]
 
-
-> ## log
-> 27/05/22022 - 11h15 -> commit project
-> update dos arquivos do projeto feitos até agora.
-> até o momento já conclui os capitulos iniciais e estou entrando na parte de arrays e collections
-
-
-> ### 1. Introdução
-> - visão geral de algoritmo
-> - visão geral de estrutura de dados
+> ### 1. Introdução ao curso de Desenvolvimento Web
+> - visão geral do curso e repositório
 > - terminal (cmd e powershell)
 
 > ### 2. Configuração do ambiente
-> - instalação do Java 17, JDK e Eclipse.
+> - instalação do VSCode e do nodeJS.
 
-> ### 3. Fundamentos
-> - criando projeto
-> - primeiro programa
-> - organização
-> - comentários e javadocs
-> - variáveis e constantes.
-> - inferência de tipos
-> - tipos primitivos
-> - notação ponto
-> - import
-> - tipo String
-> - console
-> - objeto vs. primitivo
-> - wrappers
+> ### 3. Iniciando com Programação
+> - conhecendo o VSCode
+> - sentença e bloco de Código
+> - trabalhando com dados
+>
+> https://github.com/catsncodes/web-javascript-coder/tree/main/inicio
+ 
+> ### 4. Javascript: Fundamentos
+> - visão geral de algoritmo e estrutura de dados
+> - configuração de projeto, organização básica e execução de um código JS
+> - comentários de código
+> - o básico de var, let e const
+> - tipagem fraca
+> - tipos em javascript (number, string, boolean, array, object, null, undefined, function)
+> - funções (var)
 > 
-> https://github.com/catsncodes/java-coder/tree/main/src/exercicios/fundamentos
-> 
-> - operadores
-> - JRE vs JDK
-> - Java vs Javac
-> 
-> https://github.com/catsncodes/java-coder/tree/main/src/exercicios/fundamentos/operadores
+> https://github.com/catsncodes/web-javascript-coder/tree/main/inicio
 
-> ### 4. Estruturas de Controle
-> - contole
-> - if
-> - else/if
-> - while
-> - for
-> - do/While
-> - switch
-> - break
-> - continue
-> 
-> https://github.com/catsncodes/java-coder/tree/main/src/exercicios/controle
-
-> ### 5. Classes e métodos
-> - revisão de clase
-> - classe vs objeto
-> - classe Produto
-> - classe Data
-> - métodos
-> - construtor
-> - membros de classe vs membros de instância
-> - atribuição de valor vs referência
-> - this e this()
-> - variáveis locais
-> - valores padrões e null
-> 
-> https://github.com/catsncodes/java-coder/tree/main/src/exercicios/classe
-
-> ### 6. Arrays e Collections
-> - array
-> - foreach
-> - matriz
-> 
-> - https://github.com/catsncodes/java-coder/tree/main/src/exercicios/arrays
-
-
+> ### 5. (...)
 
 ## 🛠️ em construção... 🔧
 ### ⏳ (...)
