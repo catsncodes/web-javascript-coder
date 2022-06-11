@@ -1,4 +1,4 @@
-# 🌐 WebDev & Javascript - Cod3r Cursos
+# 🌐 WebDev & Javascript 🖥️ - Cod3r Cursos
 
 ## Curso de Desenvolvimento Web, com fundamentos de javascript, noções de front e backend, além de tópicos sobre react, nodeJS, Vue, nextJS, etc, pela Cod3r Cursos, do professor Leonardo Moura Leitão, da plataforma UDEMY.
 Curso em progresso, que será registrado no gitHub a partir de agora.
