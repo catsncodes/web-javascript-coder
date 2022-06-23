@@ -18,7 +18,7 @@ Curso em progresso, que será registrado no gitHub a partir de agora.
 > - sentença e bloco de Código
 > - trabalhando com dados
 >
-> https://github.com/catsncodes/web-javascript-coder/tree/main/inicio
+> <https://github.com/catsncodes/web-javascript-coder/tree/main/inicio>
  
 > ### 4. Javascript: Fundamentos
 > - visão geral de algoritmo e estrutura de dados
@@ -38,7 +38,7 @@ Curso em progresso, que será registrado no gitHub a partir de agora.
 > - contexto de execução: browser vs node
 > - tratamento de erro: try & catch
 > 
-> https://github.com/catsncodes/web-javascript-coder/tree/main/inicio
+> <https://github.com/catsncodes/web-javascript-coder/tree/main/fundamentos>
 
 > ### 5. Javascript: Estruturas de Controle
 > - if/else
@@ -50,7 +50,7 @@ Curso em progresso, que será registrado no gitHub a partir de agora.
 > - for/in
 > - break continue
 >
-> {link}
+> <https://github.com/catsncodes/web-javascript-coder/tree/main/controle>
 
 > ### 6. Função (...)
 
