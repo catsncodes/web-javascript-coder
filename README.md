@@ -3,8 +3,8 @@
 ## Curso de Desenvolvimento Web, com fundamentos de javascript, noções de front e backend, além de tópicos sobre react, nodeJS, Vue, nextJS e Angular, pela Cod3r Cursos, do professor Leonardo Moura Leitão, da plataforma UDEMY.
 Curso em progresso, que será registrado no gitHub a partir de agora.
 
-# 🔋 Loading |7%|
-> # PROGRESSO: [50]/[675]
+# 🔋 Loading |12,89%|
+> # PROGRESSO: [87]/[675]
 
 > ### 1. Introdução ao curso de Desenvolvimento Web
 > - visão geral do curso e repositório
