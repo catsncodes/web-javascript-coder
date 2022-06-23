@@ -4,7 +4,7 @@
 Curso em progresso, que será registrado no gitHub a partir de agora.
 
 # 🔋 Loading |12,89%|
-> # PROGRESSO: [87]/[675]
+> ## PROGRESSO: [87]/[675]
 
 > ### 1. Introdução ao curso de Desenvolvimento Web
 > - visão geral do curso e repositório
