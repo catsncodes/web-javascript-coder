@@ -27,11 +27,32 @@ Curso em progresso, que será registrado no gitHub a partir de agora.
 > - o básico de var, let e const
 > - tipagem fraca
 > - tipos em javascript (number, string, boolean, array, object, null, undefined, function)
-> - funções (var)
+> - funções (var e let)
+> - hoisting
+> - função vs objeto
+> - par nome/valor
+> - notação ponto
+> - operadores: atribuição
+> - destructuring
+> - operadores aritméticos, relacionais, lógicos, unários e ternários
+> - contexto de execução: browser vs node
+> - tratamento de erro: try & catch
 > 
 > https://github.com/catsncodes/web-javascript-coder/tree/main/inicio
 
-> ### 5. (...)
+> ### 5. Javascript: Estruturas de Controle
+> - if/else
+> - else/if
+> - switch
+> - while
+> - do/while
+> - for
+> - for/in
+> - break continue
+>
+> {link}
+
+> ### 6. Função (...)
 
 ## 🛠️ em construção... 🔧
 ### ⏳ (...)
