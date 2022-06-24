@@ -8,8 +8,8 @@
 <(...)>
 
 
-# 🔋 Loading |12,89%|
-> ### PROGRESSO: [87]/[675]
+# 🔋 Loading |16,89%|
+> ### PROGRESSO: [114]/[675]
 
 > ### 1. Introdução ao curso de Desenvolvimento Web
 > - visão geral do curso e repositório
