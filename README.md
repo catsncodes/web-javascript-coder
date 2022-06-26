@@ -22,9 +22,7 @@
 > - conhecendo o VSCode
 > - sentença e bloco de Código
 > - trabalhando com dados
->
-> <https://github.com/catsncodes/web-javascript-coder/tree/main/aulas/inicio>
- 
+
 > ### 4. Javascript: Fundamentos
 > - visão geral de algoritmo e estrutura de dados
 > - configuração de projeto, organização básica e execução de um código JS
@@ -43,7 +41,7 @@
 > - contexto de execução: browser vs node
 > - tratamento de erro: try & catch
 > 
-> <https://github.com/catsncodes/web-javascript-coder/tree/main/aulas/fundamentos>
+> <https://github.com/catsncodes/web-javascript-coder/tree/main/aulas/javascript/fundamentos>
 
 > ### 5. Javascript: Estruturas de Controle
 > - if/else
@@ -55,7 +53,7 @@
 > - for/in
 > - break continue
 >
-> <https://github.com/catsncodes/web-javascript-coder/tree/main/aulas/controle>
+> <https://github.com/catsncodes/web-javascript-coder/tree/main/aulas/javascript/controle>
 
 > ### 6. Função
 > - função em JS -> First Class Object
@@ -73,9 +71,25 @@
 > - call e apply
 > - exercícios
 > 
-> > <https://github.com/catsncodes/web-javascript-coder/tree/main/aulas/funcao>
+> <https://github.com/catsncodes/web-javascript-coder/tree/main/aulas/javascript/funcao>
+>
+> - lista de exercícios de fundamentos de javascript
+>
+> <https://github.com/catsncodes/web-javascript-coder/tree/main/aulas/javascript/exercicios>
 
 > ### 7. JavaScript: Objeto
+> - introdução a orientação a objetos
+> - estratégias de criação de objetos
+> - objetos constantes
+> - notação literal
+> - getters e settes
+> - funções importantes de objeto
+> - herança
+> - evitando modificações
+> - JSON vs Objeto
+> - classe
+>
+> <https://github.com/catsncodes/web-javascript-coder/tree/main/aulas/javascript/objeto>
 
 > ### 8. JavaScript: Array
 
@@ -95,6 +109,49 @@
 
 > ### 16. Ajax
 
+> ### 17. Gulp
+
+> ### 18. Webpack
+
+> ### 19. jQuery
+
+> ### 20. Bootstrap
+
+> ### 21. Projeto Galeria
+
+> ### 22. React
+
+> ### 23. Projeto Calculadora
+
+> ### 24. Projeto Cadastro de Usuário
+
+> ### 25. Projeto Cadastro - Integração com Banco de Dados Firestore
+
+> ### 26. VueJS
+
+> ### 27. Projeto VueJS
+
+> ### 28. Projeto Calculadora (Vue)
+
+> ### 29. Projeto Monty Hall(Vue)
+
+> ### 30. Aplicação Desktop com JavaScript, ElectronJS e VueJS
+
+> ### 31. Angular 9
+
+> ### 32. Banco Relacional
+
+> ### 33. Banco Não Relacional
+
+> ### 34. Express
+
+> ### 35. Projeto Base de Conhecimento - BackEnd
+
+> ### 36. Projeto Base de Conhecimento - FrontEnd
+
+> ### 37. Publicando uma Aplicação VueJS na Amazon
+
+> ### 38. Conclusão do curso Desenvolvimento Web
 
 
 ## (...)
