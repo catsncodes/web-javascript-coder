@@ -8,8 +8,8 @@
 <(...)>
 
 
-# 🔋 Loading |16,89%|
-> ### PROGRESSO: [114]/[675]
+# 🔋 Loading |21,48%|
+> ### PROGRESSO: [145]/[675]
 
 > ### 1. Introdução ao curso de Desenvolvimento Web
 > - visão geral do curso e repositório
@@ -92,6 +92,13 @@
 > <https://github.com/catsncodes/web-javascript-coder/tree/main/aulas/javascript/objeto>
 
 > ### 8. JavaScript: Array
+> - visão geral e métodos importantes
+> - foreach
+> - map
+> - filter, reduce
+> - concat, flatmap
+>
+> <https://github.com/catsncodes/web-javascript-coder/tree/main/aulas/javascript/array>
 
 > ### 9. Lista de exercícios de JavaScript
 
